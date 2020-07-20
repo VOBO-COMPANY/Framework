@@ -4,7 +4,7 @@
 
 // Tekil bileşen veri çekme
 // Tekil bileşen kodu
-<?php echo $cms::getOnePage("1234567890")->data->{"Veri kanca adı"}; ?>
+<?php echo $cms::getOneV2Page("1234567890")->data->{"Veri kanca adı"}; ?>
 
 // Çoklu bileşen veri çekme ve listeleme
 // Birinci parametre bileşen kodu
