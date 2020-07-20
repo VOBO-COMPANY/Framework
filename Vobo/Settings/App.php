@@ -14,7 +14,7 @@ class App
                 "folder"                => "Main",
                 "router"                => "Main",
                 "assets"                => false,
-                "https"                 => false,
+                "https"                 => true,
                 "maintenance"           => false,
                 "maintenanceRouter"     =>
                     [
